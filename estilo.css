@@ -1,14 +1,19 @@
 body{
+    display: flex;
+    flex-direction: column;
+    justify-content: ;
+    align-items: center;
     background-color: white;
-    width:800px;
-    text-align:center;
+    margin: 0;
+    padding: 0;
+    height: 100vh;
 }
 img{
     width: 185px;
 }
 div{
     text-align: center;
-    margin:auto;
+    margin: 50px 200px;
     font-family: Verdana;
 }
 h1{
